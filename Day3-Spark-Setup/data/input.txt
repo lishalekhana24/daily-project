@@ -1,0 +1,5 @@
+Spark is a fast distributed computing framework.
+Spark supports Scala programming.
+Spark can process large datasets.
+Spark uses a driver and executors.
+Spark supports batch processing.

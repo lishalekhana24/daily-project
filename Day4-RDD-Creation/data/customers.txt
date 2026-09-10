@@ -1,0 +1,10 @@
+C001,John,Hyderabad
+C002,Alice,Bangalore
+C003,Bob,Chennai
+C004,David,Mumbai
+C005,Emma,Delhi
+C006,Ravi,Pune
+C007,Sarah,Hyderabad
+C008,Michael,Kolkata
+C009,Daniel,Chennai
+C010,Laura,Bangalore

@@ -1,0 +1,10 @@
+T001,John,Laptop,800
+T002,Alice,Phone,500
+T003,Bob,Tablet,300
+T004,John,Mouse,50
+T005,Alice,Keyboard,100
+T006,Bob,Laptop,900
+T007,David,Monitor,400
+T008,John,Headphones,150
+T009,Alice,Laptop,850
+T010,David,Keyboard,120

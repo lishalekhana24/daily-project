@@ -1,0 +1,11 @@
+INFO Application started
+INFO User login successful
+ERROR Database connection failed
+WARN Slow response detected
+ERROR File not found
+INFO Request completed
+ERROR Database connection failed
+INFO User logout successful
+WARN High memory usage
+ERROR Authentication failed
+INFO Application stopped

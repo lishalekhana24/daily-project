@@ -1,0 +1,12 @@
+Laptop 2
+Mouse 5
+Keyboard 3
+Laptop 1
+Mouse 2
+Keyboard 4
+Monitor 2
+Laptop 3
+Mouse 1
+Monitor 1
+Keyboard 2
+Laptop 4

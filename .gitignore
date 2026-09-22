@@ -1,12 +1,10 @@
 *.class
 *.jar
-target/
-.bsp/
-.metals/
-.idea/
 
 # SBT / Scala generated files
 target/
 project/target/
 .bsp/
+.metals/
+.idea/
 *.log

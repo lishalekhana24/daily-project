@@ -1,0 +1,11 @@
+customer_id,name,age,city,spending
+C001,Arun,25,Chennai,5000
+C002,Priya,30,Bangalore,8000
+C003,Rahul,22,Chennai,3000
+C004,Anjali,28,Hyderabad,7000
+C005,Vikram,35,Bangalore,12000
+C006,Neha,26,Hyderabad,6000
+C007,Kiran,40,Chennai,15000
+C008,Divya,31,Bangalore,9000
+C009,Ravi,24,Hyderabad,4000
+C010,Meena,29,Chennai,11000

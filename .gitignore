@@ -1,10 +1,11 @@
-*.class
-*.jar
-
-# SBT / Scala generated files
 target/
 project/target/
-.bsp/
+spark-warehouse/
 .metals/
+.bloop/
 .idea/
-*.log
+target/
+spark-warehouse/
+.bsp/
+*.class
+compile.log

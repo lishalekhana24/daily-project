@@ -9,3 +9,4 @@ spark-warehouse/
 .bsp/
 *.class
 compile.log
+output/

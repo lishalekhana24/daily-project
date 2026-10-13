@@ -10,3 +10,4 @@ spark-warehouse/
 *.class
 compile.log
 output/
+Day24-Stateless-vs-Stateful-Streaming/checkpoint-day24/

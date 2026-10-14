@@ -15,3 +15,7 @@ Day24-Stateless-vs-Stateful-Streaming/checkpoint-day24/
 # Spark generated files
 Day25-Window-Operations/checkpoint/
 Day25-Window-Operations/target/
+
+# Generated Spark and SBT files
+Day26-Real-Time-Healthcare/checkpoint/
+Day26-Real-Time-Healthcare/target/
